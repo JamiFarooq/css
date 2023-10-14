@@ -1,0 +1,78 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.head {
+    width: 400px;
+    display: flex;
+    border: solid 1px black;
+    justify-content: center;
+    height: 4vh;
+    margin-left: 30%;
+    margin-top: 20px;
+    color: rgb(104, 161, 17);
+}
+.menu {
+    width: 400px;
+    display: flex;
+    border: solid 1px black;
+    justify-content: center;
+    height: 4vh;
+    margin-left: 30%;
+    margin-top: 2px;
+    color: rgb(104, 161, 17);
+    
+}
+.content1 {
+    width: 100px;
+    float: left;
+    border: solid 1px black;
+    justify-content: center;
+    height: 15vh;
+    margin-left: 30%;
+    margin-top: 2px;
+    color: rgb(104, 161, 17);
+    align-items: center;
+    text-align: justify;
+    padding: auto;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.main {
+    width: 130px;
+    float: left;
+    border: solid 1px black;
+    justify-content: center;
+    height: 15vh;
+    margin-left: 2px;
+    margin-top: 2px;
+    color: rgb(104, 161, 17);
+    align-items: center;
+    text-align: justify;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.content2 {
+    width: 100px;
+    float: left;
+    border: solid 1px black;
+    justify-content: center;
+    height: 15vh;
+    margin-left: 2px;
+    margin-top: 2px;
+    color: rgb(104, 161, 17);
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.foot {
+    height: 4vh;
+    width: 400px;
+    margin-top: 194px;
+    border: solid 1px black;
+    margin-left: 30%;
+    text-align: center;
+    color: rgb(104, 161, 17);
+}
